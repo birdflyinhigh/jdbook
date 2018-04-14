@@ -30,4 +30,3 @@ DOWNLOAD_DELAY = 1
 
 
 
-REDIS_
